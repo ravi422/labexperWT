@@ -1,0 +1,25 @@
+h1
+{
+ color:indigo;
+ font-family:caStellar;font-size:30pt;
+ text-decoration:underline;
+}
+h2
+{
+ color:orange;
+ font-family:Chiller;font-size:25pt;
+ text-decoration-line:overline;
+}
+h3
+{
+ color:cyan;
+ font-family:Trebuchet MS;font-size:28pt;
+ text-decoration:blink;
+}
+p
+{
+ 
+ font-family:fantasy;font-size:16pt;
+ font-style:italic;
+ text-decoration-line:line-through;
+}
